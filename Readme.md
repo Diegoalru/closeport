@@ -2,7 +2,7 @@
 
 This is a simple Bash script that can be used to kill a process running on a specified port number.
 
-## Requirements
+Requirements
 
 * Bash shell environment
 * Root access or sudo privileges
@@ -13,7 +13,7 @@ This is a simple Bash script that can be used to kill a process running on a spe
 The script can be executed using the following command:
 
 ```
-sudo ./kill-process-using-port.sh
+sudo ./kill-process-using-port.sh <port_number>
 ```
 
 Replace `<port_number>` with the port number on which the process is running.
